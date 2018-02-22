@@ -1,0 +1,23 @@
+[
+  {
+    "code":"E-1001",
+    "name":"sapana",
+    "joinDate":"2014-02-01",
+    "salary":"$4000",
+    "image":"emp.jpg"
+  },
+  {
+    "code":"E-1002",
+    "name":"mansi",
+    "joinDate":"2012-05-02",
+    "salary":"$5000",
+    "image":"emp2.jpg"
+  },
+  {
+    "code":"E-1003",
+    "name":"Keyur",
+    "joinDate":"2015-03-01",
+    "salary":"$7500",
+    "image":"emp3.jpg"
+  }
+]
